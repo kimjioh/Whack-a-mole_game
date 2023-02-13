@@ -9,6 +9,11 @@ body{
     cursor: none;
     position: relative;
 }
+
+#fatkun-drop-panel{
+    display: none;
+}
+
 .score{
     text-align: center; 
     padding-top: 50px; 
